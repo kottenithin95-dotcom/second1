@@ -1,0 +1,308 @@
+*{
+    height: auto;
+    padding: 0px;
+    margin: 0%;
+    font-weight: 100;
+    color: rgba(0, 0, 0, 0.776);
+}
+.headerfile{
+    background-image: url("https://th.bing.com/th/id/OIP.H5SQGgdHM3BpkBmkStB_twHaE7?w=256&h=180&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+    width: 1560px;
+}
+.headerfile .nav1{
+    color: rgba(255, 255, 255, 0.927);
+    font-size: 15px;
+    font-style: italic;
+
+}
+.nav1 .div1{
+    width: 100px;
+    height: 40px;
+    color: white;
+}
+.div2{
+    width: 100px;
+    height: 40px;
+    margin-left: 90px;
+    margin-top: -40px;
+    color: white;
+}
+.div3{
+    width: 100px;
+    height: 40px;
+    margin-left: 190px;
+    margin-top: -40px;
+    color: white;
+}
+.div4{
+    width: 100px;
+    height: 40px;
+    margin-left: 320px;
+    margin-top: -38px;
+    color: white;
+
+}
+.div1:hover{
+    background-color:black;
+    color: white;
+}
+.div2:hover{
+    background-color:black;
+    color: white;
+}  
+.div3:hover{
+    background-color:black;
+    color: white;
+}  
+.div4:hover{
+    background-color:black;
+    color: white;
+}    
+.headerfile h1{
+    width: 370px;
+    height: 50px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin: auto;
+    margin-top: 230px;
+}
+.about .csk{
+    font-weight: lighter;
+    margin-left: 680px;
+}
+.about h6{
+    font-weight: lighter;
+    text-align: center;
+    font-size:13px;
+}
+.about .rcb{
+    font-weight: lighter;
+    width: 1100px;
+    margin: auto;
+    font-size: 20px;
+}
+
+.about h3{
+    margin-left: 400px;
+    margin-top: 60px;
+
+}
+.about img{
+    height: 333px;
+    width: 500px;
+    margin-left: 260px;
+    margin-top: 50px;
+}
+.about .para2{
+    margin-left: 850px;
+    width: 490px;
+    margin-top: -400px;
+    font-size: 22px;
+}
+.about .swiggy{
+    text-align: center;
+    font-size: 22px;
+    font-weight: 100;
+}
+.about h2{
+    font-weight: lighter;
+    margin-left: 235px;
+    letter-spacing: 10px;
+    font-weight: 500;
+}
+.about .div6{
+    border: 2px solid;
+    height: 39px;
+    width: 1100px;
+    margin: auto;
+
+}
+.about .div7{
+    border: 2px solid;
+    height: 39px;
+    width: 1100px;
+    margin: auto;
+
+}
+.about .div8{
+    border: 2px solid;
+    height: 39px;
+    width: 1100px;
+    margin: auto;
+}
+.about .par1{
+    text-align: center;
+}
+.nav2{
+    border: 2px solid;
+    height: 130px;
+    background-color: rgba(0, 0, 0, 0.493);
+    color: white;
+}
+.portfolio1 .div9{
+    border: 2px solid rgba(0, 0, 0, 0);;
+    width: 350px;
+    height: 130px;
+}
+.portfolio1 .div10{
+    border: 2px solid rgba(0, 0, 0, 0);;
+    width: 350px;
+    height: 130px;
+    margin-left: 353px;
+    margin-top: -133px;
+}
+.portfolio1 .div11{
+    border: 2px solid rgba(0, 0, 0, 0);;
+    width: 350px;
+    height: 130px;
+    margin-left: 710px;
+    margin-top: -135px;
+}
+.portfolio1 .div12{
+    border: 2px solid rgba(0, 0, 0, 0.032);;
+    width: 350px;
+    height: 130px;
+    margin-left: 1100px;
+    margin-top: -133px;
+}
+.portfolio1 .wwe{
+    text-align: center;
+    margin-top:30px;
+    font-size: 25px;
+}
+.portfolio1 .wwww{
+    text-align: center;
+}
+.portfolio1 .imgg{
+    height: 450px;
+    background-image: url("https://www.bing.com/th/id/OIP.CVQZ6iuRBi8ItTy_sVjgDgHaE7?w=261&h=211&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.prab{
+    color: rgb(10, 9, 9);
+    text-align: center;
+    font-size: 50px;
+
+}
+.workk{
+    text-align: center;
+    color: rgba(0, 0, 0, 0.747);
+}
+.qq{
+    text-align: center;
+    color: rgba(0, 0, 0, 0.747);
+}
+.img2{
+    height: 240px;
+    width: 1100px;
+    margin: auto;
+}
+.img2 img{
+    height: 240px;
+    width: 265px;
+}
+.img1{
+
+    height: 240px;
+    width: 1100px;
+    margin: auto;
+}
+.img1 img{
+    height: 240px;
+    width: 265px;
+}
+.morr{
+    height: 60px;
+    width: 200px;
+    text-align: center;
+    margin-left: 730px;
+}
+.content1{
+    border: 2px solid white;
+    height: 470px;
+    background-image: url("https://th.bing.com/th/id/OIP.CvfT8Tpr0lbyJQQ_VTtxZwHaEJ?w=328&h=184&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.content1 .srh{
+    text-align: center;
+    margin-top: 200px;
+    font-size: 50px;
+}
+.content1 .wheree{
+    text-align: center;
+}
+
+.content1 .p9{
+    text-align: center;
+}
+.content1 .last{
+    height: 600px;
+}
+.content1 .img3{
+    height: 190px;
+    width: 320px;
+    margin-top: 50px;
+    margin-left: 300px;
+    border-radius: 10px 10px 10px 10px;
+}
+.content1 .location{
+    margin-left: 680px;
+    margin-top: -170px;
+    font-size: 33px;
+
+}
+.content1 .lsg{
+    margin-top: 30px;
+    margin-left: 680px;
+}
+.content1 .inpp1 .xax{
+    height: 40px;
+    width: 320px;
+    margin-left: 680px;
+    margin-top: 20px;
+}
+.innp2{
+    height: 40px;
+    width: 320px;
+}
+.content1 .inpp3 input{
+    height: 40px;
+    width: 667px;
+    margin-left: 680px;
+}
+.rr{
+    height: 40px;
+    width: 150px;
+    margin-left:1200px ;
+    background-color: black;
+    color: white;
+}
+
+.footer{
+    height: 250px;
+    margin-top: 789px;
+    background-color: rgba(0, 0, 0, 0.589);
+
+}
+.nmn{
+    text-align: center;
+    height: 27px;
+    width: 80px;
+    margin-left: 756px;
+    margin-top: 70px;
+}
+.naga{
+    text-align: center;
+    color: white;
+}
+.footer:hover{
+    background-color: black;
+    color: white;
+}
